@@ -6,13 +6,15 @@ html {
 body {
   height: 95%;
   width: 100%;
-  font-family: sans-serif;
-  background-image: url('http://addyosmani.com/blog/wp-content/uploads/2013/04/unicorn.jpg');
-}
-
+  font-family: sans-serif; 
+  /*background-image: url('http://addyosmani.com/blog/wp-content/uploads/2013/04/unicorn.jpg'); */
+    background-color: aqua;
+}  
 .main-container {
-  width: 75%;
+  width: 55%;
   margin: 10px auto;
+  margin-left: 25%;
+  margin-right: 25%;    
   background: rgba(255, 255, 255, 0.86);
   padding: 5px;
   border-radius: 10px;
